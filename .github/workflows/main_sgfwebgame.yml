@@ -51,4 +51,4 @@ jobs:
           app-name: 'SGFwebgame'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_620FE377929045649D69A956A2855ACD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_597BEA0F0C124F6EB79D1818302D0C65 }}
